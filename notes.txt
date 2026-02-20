@@ -1,0 +1,8 @@
+    print(f"This is a note about error handling in Python.")
+  Always use try-except blocks to catch potential errors.     
+
+a 
+ b
+  c
+   d
+    e
